@@ -1,5 +1,5 @@
 # INSTALLER
-https://drive.google.com/file/d/1QaRFvxt78glgMh3F-LlSqhwXJYKJBFLr/view?usp=sharing
+https://drive.google.com/file/d/1QaRFvxt78glgMh3F-LlSqhwXJYKJBFLr/
 
 # Aliaser: Audio Processing Tool
 
